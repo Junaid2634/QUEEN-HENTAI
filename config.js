@@ -7,8 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [ Junaid Nazeer
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['923263409442', 'Rais Junaid Nazeer 
+    ²⁰²³', true],
+  ['923263409442', Rais junaid Nazeer²⁰²³', true], 
   [''] 
 ] //Number of owners
 
